@@ -1,0 +1,15 @@
+/Users/mariadementeva/Documents/c#/sem9/hw64/obj/Debug/net6.0/hw64.csproj.AssemblyReference.cache
+/Users/mariadementeva/Documents/c#/sem9/hw64/obj/Debug/net6.0/hw64.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariadementeva/Documents/c#/sem9/hw64/obj/Debug/net6.0/hw64.AssemblyInfoInputs.cache
+/Users/mariadementeva/Documents/c#/sem9/hw64/obj/Debug/net6.0/hw64.AssemblyInfo.cs
+/Users/mariadementeva/Documents/c#/sem9/hw64/obj/Debug/net6.0/hw64.csproj.CoreCompileInputs.cache
+/Users/mariadementeva/Documents/c#/sem9/hw64/bin/Debug/net6.0/hw64
+/Users/mariadementeva/Documents/c#/sem9/hw64/bin/Debug/net6.0/hw64.deps.json
+/Users/mariadementeva/Documents/c#/sem9/hw64/bin/Debug/net6.0/hw64.runtimeconfig.json
+/Users/mariadementeva/Documents/c#/sem9/hw64/bin/Debug/net6.0/hw64.dll
+/Users/mariadementeva/Documents/c#/sem9/hw64/bin/Debug/net6.0/hw64.pdb
+/Users/mariadementeva/Documents/c#/sem9/hw64/obj/Debug/net6.0/hw64.dll
+/Users/mariadementeva/Documents/c#/sem9/hw64/obj/Debug/net6.0/refint/hw64.dll
+/Users/mariadementeva/Documents/c#/sem9/hw64/obj/Debug/net6.0/hw64.pdb
+/Users/mariadementeva/Documents/c#/sem9/hw64/obj/Debug/net6.0/hw64.genruntimeconfig.cache
+/Users/mariadementeva/Documents/c#/sem9/hw64/obj/Debug/net6.0/ref/hw64.dll
