@@ -1,0 +1,15 @@
+/Users/mariadementeva/Documents/c#/sem9/hw66/bin/Debug/net6.0/hw66
+/Users/mariadementeva/Documents/c#/sem9/hw66/bin/Debug/net6.0/hw66.deps.json
+/Users/mariadementeva/Documents/c#/sem9/hw66/bin/Debug/net6.0/hw66.runtimeconfig.json
+/Users/mariadementeva/Documents/c#/sem9/hw66/bin/Debug/net6.0/hw66.dll
+/Users/mariadementeva/Documents/c#/sem9/hw66/bin/Debug/net6.0/hw66.pdb
+/Users/mariadementeva/Documents/c#/sem9/hw66/obj/Debug/net6.0/hw66.csproj.AssemblyReference.cache
+/Users/mariadementeva/Documents/c#/sem9/hw66/obj/Debug/net6.0/hw66.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariadementeva/Documents/c#/sem9/hw66/obj/Debug/net6.0/hw66.AssemblyInfoInputs.cache
+/Users/mariadementeva/Documents/c#/sem9/hw66/obj/Debug/net6.0/hw66.AssemblyInfo.cs
+/Users/mariadementeva/Documents/c#/sem9/hw66/obj/Debug/net6.0/hw66.csproj.CoreCompileInputs.cache
+/Users/mariadementeva/Documents/c#/sem9/hw66/obj/Debug/net6.0/hw66.dll
+/Users/mariadementeva/Documents/c#/sem9/hw66/obj/Debug/net6.0/refint/hw66.dll
+/Users/mariadementeva/Documents/c#/sem9/hw66/obj/Debug/net6.0/hw66.pdb
+/Users/mariadementeva/Documents/c#/sem9/hw66/obj/Debug/net6.0/hw66.genruntimeconfig.cache
+/Users/mariadementeva/Documents/c#/sem9/hw66/obj/Debug/net6.0/ref/hw66.dll
